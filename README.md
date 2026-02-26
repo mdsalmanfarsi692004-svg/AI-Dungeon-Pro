@@ -2,6 +2,12 @@
 
 An interactive, AI-powered storytelling text adventure game built with Python and Streamlit. This project uses Generative AI to create a dynamic, multimodal narrative experience complete with text, cinematic images, and voice narration.
 
+
+**Live App Link:**
+
+https://ai-dungeon-pro.streamlit.app/
+
+
 ## ✨ Key Features
 * **Dynamic Storytelling**: Uses Hugging Face's `GPT-2` model for generating creative story responses based on user input.
 * **Cinematic Image Generation**: Integrates `Stable Diffusion v1.5` to visually render the current scene based on the genre.
