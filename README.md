@@ -37,3 +37,13 @@ https://ai-dungeon-pro.streamlit.app/
 
 3. Run the Streamlit app:
    `streamlit run app.py`
+
+
+👨‍💻 Author
+Md Salman Farsi
+
+Role: AI & ML Intern @ Elevate Labs | B.Tech CSE (AI & ML)
+Portfolio: https://mdsalmanfarsi692004-svg.github.io/portfolio/
+Email: mdsalmanfarsi692004@gmail.com
+GitHub: [https://github.com/mdsalmanfarsi692004-svg]
+LinkedIn: [www.linkedin.com/in/md-salman-farsi-data-analyst]
