@@ -39,9 +39,9 @@ https://ai-dungeon-pro.streamlit.app/
    `streamlit run app.py`
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 
-Md Salman Farsi
+## Md Salman Farsi
 
 Role: AI & ML Intern @ Elevate Labs | B.Tech CSE (AI & ML)
 
