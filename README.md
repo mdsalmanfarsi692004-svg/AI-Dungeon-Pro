@@ -7,6 +7,15 @@ An interactive, AI-powered storytelling text adventure game built with Python an
 
 https://ai-dungeon-pro.streamlit.app/
 
+## Screenshots
+
+## Main Dashboard
+
+<img width="1917" height="923" alt="Main Dashboard (3)" src="https://github.com/user-attachments/assets/fb8e8448-ccf3-40b7-a2e9-872c779b7ec4" />
+
+## Output
+
+<img width="1913" height="924" alt="Output (2)" src="https://github.com/user-attachments/assets/f9ccaed3-67e2-4b1d-956e-46de6d0603d7" />
 
 ## ✨ Key Features
 * **Dynamic Storytelling**: Uses Hugging Face's `GPT-2` model for generating creative story responses based on user input.
